@@ -1,0 +1,15 @@
+_##########################################
+*~~* 0.0.1 *~~*
+____________________________________________
+
+* First release
+* support for connecting to unlimited servers (aka' tabs)
+	* OTAdmin commands executor, with validation, repeating system
+	* nice editor with syntax highlighting and more
+	* loading/saving favorites scripts
+	* pinging server in background, you'll get informed if server stopped responding (Crash or something)
+	* status info (server name/status/players etc)
+	* players list, filter by name
+	* minimize to tray
+	* styles changing
+	* multiplatform (Written in Qt)

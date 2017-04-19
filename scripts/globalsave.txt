@@ -1,0 +1,17 @@
+server localhost:7171
+connect test
+
+broadcast Server is going down for a global save within 5 minutes. Please logout.
+sleep 120000
+broadcast Server is going down for a global save within 3 minutes. Please logout.
+sleep 120000
+broadcast Server is going down for a global save in one minute, please logout!
+
+#uncomment if you want payhouses
+#closeserver
+#payhouses
+
+broadcast Server closed and houses paid, shutting down in 5 seconds.
+sleep 5000
+shutdown
+disconnect

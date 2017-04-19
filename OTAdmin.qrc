@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/" >
+        <file>images/otadmin.png</file>
+        <file>images/not_connected.png</file>
+        <file>images/connected.png</file>
+        <file>images/splash.png</file>
+	<file>images/otadmin.ico</file>
+    </qresource>
+</RCC>

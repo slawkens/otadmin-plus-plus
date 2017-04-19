@@ -1,0 +1,4 @@
+server localhost:7171
+connect test
+setowner 1, God
+disconnect
